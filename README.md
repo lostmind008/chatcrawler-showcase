@@ -66,7 +66,7 @@ Each extraction is compared with the source page to cut down on fabricated conte
 
 ## Plans
 
-Free: crawl and preview extracted pages, no credit card required. Cited chat, Deep Research, domain-wide crawls and watch alerts are on paid plans. See [chatcrawler.lostmindai.com](https://chatcrawler.lostmindai.com) for current pricing.
+Free: crawl and preview extracted pages, no credit card required. Cited chat, Deep Research, domain-wide crawls and watch alerts are on paid plans. See [chatcrawler.lostmindai.com](https://chatcrawler.lostmindai.com) for current plans.
 
 ## About
 
